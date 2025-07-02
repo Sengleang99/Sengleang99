@@ -5,7 +5,7 @@
 📚 *Relevant Coursework:* Algorithms, Databases, Software Engineering  
 
 ## 💼 **Work Experience**  
-### **Software Developer Poscar Digital Co,LTD.**   
+### **Software Developer intern at Poscar Digital Co,LTD.**   
 ✔ Developed [Flutter/Firebase] applications.  
 
 ## 🔥 **Passions**  
