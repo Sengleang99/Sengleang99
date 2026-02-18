@@ -6,7 +6,9 @@
 
 ## 💼 **Work Experience**  
 ### **Software Developer intern at Poscar Digital Co,LTD.**   
-✔ Developed [Flutter/Firebase] applications.  
+✔ Developed [Flutter/Firebase] applications.   
+### **Mobile App Developer at Micro Finance Samrithsak Co,LTD.**   
+✔ Developed [Flutter] applications. 
 
 ## 🔥 **Passions**  
 - **Mobile Development:** Crafting beautiful, performant Flutter apps.  
